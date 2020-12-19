@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Minnesota State Univeristy, Mankato, Physics Department"
-date: 2020
+date: 
 location: "Mankato, USA"
 ---
 
