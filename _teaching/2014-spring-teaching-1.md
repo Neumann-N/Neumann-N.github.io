@@ -8,13 +8,17 @@ date: 2020-08-01
 location: "Mankato, USA"
 ---
 
+Main duties are to assist in laboraratory experiments and to hold office hours for students to ask questions on course matter
 
-
-Heading 1
+Office Hours
 ======
+Fall 2020: 
+Tue & Thur 8am-9am 
+Wed 11am-1pm
+Spring 2021:
+TBD
+#Heading 2
+#======
 
-Heading 2
-======
-
-Heading 3
-======
+#Heading 3
+#======
