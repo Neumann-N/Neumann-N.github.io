@@ -11,7 +11,7 @@ location: "Mankato, USA"
 Main duties are to assist in laboraratory experiments and to hold office hours for students to ask questions on course matter
 
 Office Hours
-======
+===
 Fall 2020: 
 Tue & Thur (8am-9am) 
 Wed (11am-1pm)
