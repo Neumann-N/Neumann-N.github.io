@@ -1,6 +1,5 @@
 ---
 title: "Gender Discrimination in Physics Education"
-collection: teaching
 type: "Minnesota State University, Mankato"
 venue: "Physics Department"
 date: "2020-08-01"
