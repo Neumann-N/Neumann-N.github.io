@@ -1,5 +1,5 @@
 ---
-title: "Physics 101"
+title: "Physics 101 TA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
