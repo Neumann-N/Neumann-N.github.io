@@ -1,6 +1,6 @@
 ---
 title: "Gender Discrimination in Physics Education"
-collection: portfolio 
+collection: teaching
 permalink: /portfolio/2020-portfolio-teaching-1
 venue: "Minnesota State University, Mankato, Physics Department"
 location: "Mankato, USA"
