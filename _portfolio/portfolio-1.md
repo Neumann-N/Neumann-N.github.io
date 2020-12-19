@@ -1,6 +1,6 @@
 ---
 title: "Gender Discrimination in Physics Education"
-collection: portfolio
+collection: teaching
 type: "Advisor: Dr. Thomas Brown (Minnesota State Univeristy, Mankato)" 
 permalink: /portfolio/portfolio-1
 venue: "Minnesota State Univeristy, Mankato, Physics Department"
