@@ -1,11 +1,10 @@
 ---
 title: "Gender Discrimination in Physics Education"
-excerpt: "The number of women earning bachelor’s degrees in physics has not improved."
-date: 2020-08-01
-type: "Advisor: Dr. Thomas Brown (Minnesota State Univeristy, Mankato)" 
 collection: teaching
-permalink: /portfolio/GenderResearch
+type: "Advisor: Dr. Thomas Brown (Minnesota State Univeristy, Mankato)" 
+permalink: /portfolio/portfolio-1
 venue: "Minnesota State Univeristy, Mankato, Physics Department"
+date: 2020-08-01
 location: "Mankato, USA"
 ---
 
