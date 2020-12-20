@@ -3,7 +3,7 @@ title: "Gender Discrimination in Physics Education"
 permalink: /portfolio/2020-Gender
 ---
 
-===
+
 August 2020
 
 Advisor: Thomas Brown (Minnesota State University, Mankato)
