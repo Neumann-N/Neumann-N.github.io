@@ -18,7 +18,7 @@ Languages
 * English
 * Manderin Chinese
 
-Research
+Research Topics
 ======
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
