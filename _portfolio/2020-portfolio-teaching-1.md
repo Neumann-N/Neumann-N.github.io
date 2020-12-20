@@ -1,7 +1,6 @@
 ---
 title: "Gender Discrimination in Physics Education"
 venue: "venue"
-date: "2020-08-01"
 ---
 
 
