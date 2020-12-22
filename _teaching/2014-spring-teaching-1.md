@@ -9,7 +9,7 @@ date: 2020-08-01
 location: "Mankato, USA"
 ---
 
-Main duties are to assist in laboraratory experiments and to hold office hours for students to ask questions on course material
+Main duties are to assist in laboraratory experiments and to hold office hours for students to ask questions on course material.
 
 Office Hours
 ===
