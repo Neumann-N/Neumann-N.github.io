@@ -3,8 +3,10 @@ title: "The Influence of Wind on Antarctic Bottom Water Circumpolar Transport"
 permalink: /portfolio/2020-AAOceanic
 layout: archive
 ---
-(Novermber 2020 - Present)
+
 Advisor: Andrew Stewart (UCLA) with post-doc Aviv Solodoch
+---
+Novermber 2020 - Present
 
 
 ---
