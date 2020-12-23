@@ -4,7 +4,7 @@ permalink: /portfolio/2020-AAOceanic
 layout: archive
 ---
 Advisor: Andrew Stewart (UCLA) with post-doc Aviv Solodoch
----
+
 Novermber 2020 - Present
 
 ---
