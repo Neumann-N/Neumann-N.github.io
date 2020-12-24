@@ -16,7 +16,7 @@ Education
 Languages
 ======
 * English
-* Manderin Chinese
+* Mandarin Chinese
 
 Research Topics
 ======
