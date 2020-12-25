@@ -14,8 +14,8 @@ Main duties are to assist in laboraratory experiments and to hold office hours f
 Office Hours
 ===
 Fall 2020: 
-Tue & Thur (8am-9am) 
-Wed (11am-1pm)
+Tue & Thur (8am-9am),  
+ Wed (11am-1pm)
 
 Spring 2021:
 TBD
