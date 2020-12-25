@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Wind on Antarctic Bottom Water Circumpolar Transport"
+title: "The Influence of Wind and Buoyancy Forcing on Antarctic Bottom Water Export"
 permalink: /portfolio/2020-AAOceanic
 
 ---
