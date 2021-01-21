@@ -17,4 +17,4 @@ Fall 2020:
 Tue & Thur (8am-9am), Wed (11am-1pm)
 
 Spring 2021:
-TBD
+Tue (11am-1pm)
