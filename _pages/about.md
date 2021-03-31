@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate senior studying physics and mathematics at Minnesota State University, Mankato. I am currently researching climate related topics with a focus on both atmospheric and
+I am an undergraduate senior studying physics and mathematics at Minnesota State University, Mankato. I enjoy climate related research and am most useful in thoery and code heavy projects. 
