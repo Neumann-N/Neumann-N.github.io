@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Minnesota State University, Mankato
+* Minnesota State University, Mankato, Physics B.S.
 
 Languages
 ======
