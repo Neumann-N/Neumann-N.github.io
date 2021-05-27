@@ -2,7 +2,7 @@
 title: "The Influence of Continental Geometry and Land Surface Properties on Temperature Variability"
 permalink: /portfolio/2-2020-Tempvari
 ---
-Advisor: Nicholas Lutsko (Scripps)
+Advisor: [Nicholas Lutsko](https://nicklutsko.github.io/) (UCSD Scripps)
 
 October 2020 -- present 
 

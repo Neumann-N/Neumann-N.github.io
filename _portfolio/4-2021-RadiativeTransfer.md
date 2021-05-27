@@ -2,7 +2,7 @@
 title: "Simplified Radative Transfer of Halocarbons"
 permalink: /portfolio/4-2021-RadiativeTransfer
 ---
-Advisors: Nadir Jeevanjee and Stephan Fueglistaler (Princeton)
+Advisors: [Nadir Jeevanjee](http://nadirjeevanjee.com/home.html) and [Stephan Fueglistaler](https://fueglistaler.princeton.edu/index.html) (Princeton)
 
 
 ---
