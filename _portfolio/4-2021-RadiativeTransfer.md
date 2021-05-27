@@ -1,6 +1,6 @@
 ---
 title: "Simplified Radative Transfer of Hydrocarbons"
-permalink: /portfolio/2021-RadiativeTransfer
+permalink: /portfolio/4-2021-RadiativeTransfer
 ---
 Advisors: Nadir Jeevanjee and Stephan Fueglister (Princeton)
 
