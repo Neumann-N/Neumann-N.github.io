@@ -1,5 +1,5 @@
 ---
-title: "Simplified Radative Transfer of Hydrocarbons"
+title: "Simplified Radative Transfer of Halocarbons"
 permalink: /portfolio/4-2021-RadiativeTransfer
 ---
 Advisors: Nadir Jeevanjee and Stephan Fueglister (Princeton)
