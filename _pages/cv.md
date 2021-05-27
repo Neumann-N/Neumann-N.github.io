@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Minnesota State University, Mankato, 2021 (expected)
+* B.S. in Physics, Minnesota State University, Mankato
 
 Languages
 ======

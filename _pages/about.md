@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate senior studying physics and mathematics at Minnesota State University, Mankato. I enjoy climate related research and am most useful in thoery and code heavy projects. 
+I am a physics post-baccalaureate researcher studying various climate topics. In my climate endeavors and alongside various professors I've had the chance to create a two-layer model of the ACC to research AABW, to use an idealized aquaplanet model to study daily temperature variability at mid-latitudes, and to derive/decompose simplified radiative transfer equations in the stratosphere to study the effects of hydrocarbons on our warming planet and on the ozone layer. I am looking to begin graduate studies in Atmospheric and oceanic sciences in the Fall of 2022. My favorite part about climate science is the real-world impact that comes with understanding our current state and predict the changes to come.
