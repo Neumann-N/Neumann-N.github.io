@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicole Neumann"
 title_separator          : "-"
 name                     : &name "Nicole Neumann"
-description              : &description "Undergraduate physics senior"
+description              : &description "B.S. Physics"
 url                      : https://neumann-n.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nicole Neumann"
   avatar           : "profile.png"
-  bio              : "Undergraduate Senior, Physics"
-  location         : "Minnesota State University, Mankato"
+  bio              : "post-baccalaureate researcher"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
