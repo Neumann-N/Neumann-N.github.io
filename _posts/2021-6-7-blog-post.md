@@ -2,7 +2,7 @@
 layout: single
 title: 'Philosophy and Benford's Law'
 header:
-  teaser: "https://painepublishing.com/measurementadvisor/wp-content/uploads/sites/4/2018/11/benfords-law.jpg"
+  teaser: "benfords-law.jpg"
 date: 2021-6-7
 permalink: /posts/2021-6-7-blog-post/
 excerpt: "The main purpose of this writing is to question whether Benford's Law has implications for what it means to be human."
