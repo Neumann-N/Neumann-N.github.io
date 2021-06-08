@@ -1,7 +1,7 @@
 ---
 title: 'Philosophy and Benford's Law'
 date: 2021-6-08
-permalink: /posts/2021-6-08-benfords-law/
+permalink: /posts/2021-6-08-benfords-law//
 excerpt: "question whether Benford's Law has implications for what it means to be human."
 ---
 
