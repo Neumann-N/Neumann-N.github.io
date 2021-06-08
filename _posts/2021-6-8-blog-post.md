@@ -1,7 +1,7 @@
 ---
 title: 'Philosophy and Benford's Law'
 header:
-  teaser: images/benfords-law.jpg
+  image: images/benfords-law.jpg
 date: 2021-6-8
 permalink: /posts/2021-6-8-blog-post/
 excerpt: "The main purpose of this writing is to question whether Benford's Law has implications for what it means to be human."
