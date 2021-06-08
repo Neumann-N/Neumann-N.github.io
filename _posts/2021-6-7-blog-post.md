@@ -1,5 +1,4 @@
 ---
-layout: single
 title: 'Philosophy and Benford's Law'
 header:
   teaser: images/benfords-law.jpg
