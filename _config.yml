@@ -11,14 +11,14 @@ title                    : "Nicole Neumann"
 title_separator          : "-"
 name                     : &name "Nicole Neumann"
 description              : &description "B.S. Physics"
-url                      : https://neumann-n.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nicoleneumann.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Neumann-N/Neumann-N.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -216,8 +216,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _research
   - scope:
       path: ""
