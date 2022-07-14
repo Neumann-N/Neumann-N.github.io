@@ -2,7 +2,8 @@
 title: "Walker Circulation"
 permalink: /portfolio/1-2021-Walker
 ---
-Advisor: [Sam Stevenson](https://www.samanthalstevenson.com/)(UCSB)
+
+### Principal Investigator: [Sam Stevenson](https://www.samanthalstevenson.com/)(UCSB)
 
 
 ---
