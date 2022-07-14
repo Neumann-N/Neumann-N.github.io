@@ -7,20 +7,16 @@ redirect_from:
   - /about/
   - /about.html
   
-  header-includes:
- \usepackage{background}
- \usepackage{float}
- \backgroundsetup{
- scale=1,
- color=black,
- opacity=0.4,
- angle=0,
- pages=all,
- contents={
-  \includegraphics[width=\paperwidth,height=\paperheight]{editing-talk.png}
- }
- }
 ---
+
+ <style>
+body {
+  background-image: url('https://en.wikipedia.org/wiki/The_Blue_Marble#/media/File:The_Earth_seen_from_Apollo_17.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
 
 **Research Associate** at <a href="https://lamont.columbia.edu/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Columbia's Lamont-Doherty Earth Observatory</a>   
 I am currently working with <a href="https://crew.ldeo.columbia.edu/people/robert-pincus" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Robert Pincus</a> and <a href="https://www.teampaccc.mit.edu/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Arlene Fiore</a> on an idealized global modeling framework for understanding relationships between cloud albedo and atmospheric composition.
