@@ -1,5 +1,5 @@
 ---
-title: "The Influence of Continental Geometry and Land Surface Properties on Temperature Variability (submited)"
+title: "The Influence of Continental Geometry and Land Surface Properties on Temperature Variability (submitted)"
 permalink: /portfolio/5-2020-Tempvari
 ---   
 
