@@ -6,7 +6,11 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-\backgroundsetup{
+  
+  header-includes:
+ \usepackage{background}
+ \usepackage{float}
+ \backgroundsetup{
  scale=1,
  color=black,
  opacity=0.4,
