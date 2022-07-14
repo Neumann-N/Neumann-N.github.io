@@ -9,29 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education  
+
 * Minnesota State University, Mankato, Physics B.S.
 
-Languages
-======
+### Languages
+
 * English
 * Mandarin Chinese
 
-Research Topics
-======
+### Research Topics
+
   <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+### Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+### Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
