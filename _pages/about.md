@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-### Research Associate  
-   
-[Columbia's Lamont Doherty Earth Observatory](https://lamont.columbia.edu/)  
-I am currently working with [Robert Pincus](https://crew.ldeo.columbia.edu/people/robert-pincus) and [Arlene Fiore](https://www.teampaccc.mit.edu/our-team) on an idealized global modeling framework for understanding relationships between cloud albedo and atmospheric composition.
+**Research Associate** at <a href="https://lamont.columbia.edu/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Columbia's Lamont-Doherty Earth Observatory</a> 
+I am currently working with <a href="https://crew.ldeo.columbia.edu/people/robert-pincus" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Robert Pincus</a> and <a href="https://www.teampaccc.mit.edu/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Arlene Fiore</a> on an idealized global modeling framework for understanding relationships between cloud albedo and atmospheric composition.
 
 
 
-### Consider donating just 10% of your income 
+Consider donating just 10% of your income   
 
-Join me and an incredible community of [effective givers](https://www.givingwhatwecan.org/) who have collectively pledged to give an estimated $2.9 billion to effective charities.
+Join me and an incredible community of <a href="https://www.givingwhatwecan.org/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">effective givers</a> who have collectively pledged to give an estimated $2.9 billion to effective charities.
+
