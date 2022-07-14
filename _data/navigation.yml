@@ -3,14 +3,14 @@ main:
 #  - title: "Research"
 #    url: /research/
 
- - title: "Research"
-    url: /portfolio/
-
   - title: "Talks"
     url: /talks/    
 
 #  - title: "Teaching"
-#    url: /teaching/    
+#    url: /teaching/  
+
+  - title: "Research"
+    url: /portfolio/  
         
   - title: "My Blog"
     url: /year-archive/
