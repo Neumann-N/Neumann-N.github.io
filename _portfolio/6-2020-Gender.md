@@ -1,6 +1,6 @@
 ---
 title: "Gender Discrimination in Physics Education"
-permalink: /portfolio/4-2020-Gender
+permalink: /portfolio/6-2020-Gender
 ---
 
 **Principal Investigator:** <a href="https://cset.mnsu.edu/departments/physics-and-astronomy/faculty-and-staff/thomas-brown/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Thomas Brown</a> at Minnesota State University, Mankato
