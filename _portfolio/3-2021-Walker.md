@@ -6,7 +6,7 @@ header:
   overlay_image: "VOLC.png"
 ---
 
-**Principal Investigator:** <a href="https://www.samanthalstevenson.com/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Sam Stevenson</a> at UC Santa Barbara
+**Principal Investigator:** <a href="https://www.samanthalstevenson.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Sam Stevenson</a> at UC Santa Barbara
 
 
 

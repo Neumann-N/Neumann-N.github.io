@@ -6,7 +6,7 @@ header:
   overlay_image: "Tops.png"
 ---   
 
-**Principal Investigator:** <a href="https://nicklutsko.github.io/" style="color: white; text-decoration: underline;text-decoration-style: dotted;">Nicholas Lutsko</a> at the Scripps Institution of Oceanography
+**Principal Investigator:** <a href="https://nicklutsko.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Nicholas Lutsko</a> at the Scripps Institution of Oceanography
  
 
 
