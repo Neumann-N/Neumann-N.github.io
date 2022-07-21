@@ -1,6 +1,9 @@
 ---
 title: "The Influence of Continental Geometry and Land Surface Properties on Temperature Variability (submitted)"
 permalink: /portfolio/5-2020-Tempvari
+
+header:
+  overlay_image: "Tops.png"
 ---   
 
 **Principal Investigator:** <a href="https://nicklutsko.github.io/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Nicholas Lutsko</a> at the Scripps Institution of Oceanography

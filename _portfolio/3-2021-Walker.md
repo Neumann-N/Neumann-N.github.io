@@ -1,6 +1,9 @@
 ---
 title: "Walker Circulation"
 permalink: /portfolio/3-2021-Walker
+
+header:
+  overlay_image: "VOLC.png"
 ---
 
 **Principal Investigator:** <a href="https://www.samanthalstevenson.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Sam Stevenson</a> at UC Santa Barbara
